@@ -2,12 +2,10 @@
 
 *A toolbox for biosignal processing written in Python.*
 
-<!-- [![Image](docs/logo/logo_400.png "I know you're listening! - xkcd.com/525")](http://biosppy.readthedocs.org/) -->
-
 <a href="http://biosppy.readthedocs.org/">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="docs/logo/logo_400.png">
-  <source media="(prefers-color-scheme: dark)" srcset="docs/logo/logo_inverted_400.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/scientisst/BioSPPy/blob/main/docs/logo/logo_400.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/scientisst/BioSPPy/blob/main/docs/logo/logo_inverted_400.png">
   <img alt="Image" title="I know you're listening! - xkcd.com/525">
 </picture>
 </a>
